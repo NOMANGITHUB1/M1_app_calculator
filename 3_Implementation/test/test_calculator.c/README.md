@@ -43,7 +43,7 @@ void test_add(void) {
 void test_subtract(void) {
   TEST_ASSERT_EQUAL(-3, subtraction(0, 3));
   
-  /* Dummy fail*/
+   /* Dummy fail*/
   TEST_ASSERT_EQUAL(100, subtraction(1000, 900));
 }
 
