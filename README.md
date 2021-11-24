@@ -3,7 +3,7 @@
 
 Its a vey basic project of calculator which can be used for both mobile or desktop.its having a very basic feature of calculations, the most useful thing in life.
 # Problem Statement
-In manual calculating the things on paper takes time and there is chance of error if number is big.
+In manual calculating the things on paper takes time and there is chance of error if number is large.
 # feature
 1-calculation fast
 2- simple and efficient feature
