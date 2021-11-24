@@ -55,9 +55,15 @@ The slower growth in technological innovation will also bring a significant thre
   |LLR_03|Out of  program| 	implemented |
   
   # Test plan
+  
+  ## High level Test plan
    | ID      | Description |  Exp I/p  | Exp O/P |Actual Output | Type of cost |
  | :---     | ---        | ---    |  ---        | ---    | ---        | 
-  
+  |HLTP_1| check the code working as expected by test case| Valid input|Correct output| correct output|Manual testing|
+   |HLTP_2| check if the system handles boundary conditions| InValid input|Terminated| Terminated|Manual testing|
+      |HLTP_3| check for the flow control| for Valid input|correctly| jumping correct|Manual testing|   
+      |HLTP_4| check for the flow control| for In-Valid input|terminate|terminate |Manual testing|
+   
   
   
 
