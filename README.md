@@ -42,6 +42,16 @@ W stands for weakness
  1- user shall able to enter keys 
 
  2- shall able to cancel or increament the size of numbers
-
+  
+  #  Ws
+  
+   ## when 
+   any type of calculation when needed if not possible by human , ensure using of calculator
+   
+   ## Where 
+   anywhere in real world to know the games of number
+   
+   ## who
+   anyone can use when he/she feels need of calculator
  
 
