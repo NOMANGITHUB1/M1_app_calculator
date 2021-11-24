@@ -1,4 +1,4 @@
-feature
+# feature
 1-calculation fast 2- simple and efficient feature 3- Accepts the following operators:
 
 +: sum -: sub *: multiplication /: division %: modulus ^: exponentiation (): used to change default precedence
@@ -6,7 +6,7 @@ feature
 Defining the system
 its very easy to use open the system and enter the numbers for calculation. There is no need of sign-in.
 
-SWOT ANALYSIS
+# SWOT ANALYSIS
 Strength
 simple interfaceThe ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
 
@@ -18,3 +18,14 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 
 THREATS
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
+ #  Ws
+  
+   ## when 
+   any type of calculation when needed if not possible by human , ensure using of calculator
+   
+   ## Where 
+   anywhere in real world to know the games of number
+   
+   ## who
+   anyone can use when he/she feels need of calculator
