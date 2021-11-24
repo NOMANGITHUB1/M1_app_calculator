@@ -3,6 +3,9 @@
 Simple calculator is a project to allow users to calculate basic four operations in mathematics ,they are addition, subtraction, multiplication, division but in this Project which I'm Implementing ,also included three additional operations such as Factorial, Power ,modulas .However, the input has to be in the form "number1 operator1 number2 "(i.e 2+4).
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas, in another word it is implemented with the order of precedence logic.
+# Feature 
+1- addition 2-substraction 3-multiplication 4- division 5- module 6- power 7- factorial
+
 # Research
 
 https://www.programiz.com/c-programming/examples/calculator-switch-case
@@ -10,6 +13,23 @@ https://www.programiz.com/c-programming/examples/calculator-switch-case
 https://www.knowprogram.com/c-programming/simple-calculator-program-c
 
 The switch-case statement is used to write a simple calculator program in C language. The remainder operator % is normally used with data values. To print the remainder operator %% is used in the first printf() function. The variable ch store the operator, similarly the variables num1, and num2 stores the two numbers. The switch has condition “ch” so the entered operator is matched with which case label those case label statements are executed, and display result to the screen. If the entered operator is not matched with the case labels then the default statement will be executed and it will display the message “Error! Invalid Operator.” to the screen.
+# 4W's and 1 H's
+## Why:
+To reduce the complexity of financial calculations.
+I’m making this to do all financial calculations in one place.
+It can be used by anyone at any place.
+## Where:
+This can be used in our daily lives to make better financial decisions.
+We can use it in the banking system for calculation.
+## Who:
+It can be used by investors.
+Can be used as a reference for advanced financial calculations.
+## When:
+One can calculate financial costs anywhere.
+The project can be used when the financial calculations are required and the result will be obtained fastly.
+# How:
+By giving different amounts one can find their desired output.
+It will be helpful in performing various calculations like LumpSum and SIP. This will give accurate results
 
 # Swot Analysis
 ## STRENGTHS
