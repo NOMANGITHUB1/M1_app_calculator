@@ -39,6 +39,25 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 ## THREATS
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
+# 4W's and 1 H's
+## Why:
+To reduce the complexity  calculations.
+I’m making this to do all type of calculations in one place.
+It can be used by anyone at any place.
+## Where:
+This can be used in our daily live.
+We can use it for any type of  calculation.
+## Who:
+It can be used by anyone .
+Can be used as a reference for  calculations.
+## When:
+One can calculate  anywhere.
+The project can be used when the financial calculations are required and the result will be obtained fastly.
+# How:
+By giving different amounts one can find their desired output.
+It will be helpful in performing various calculations.
+
 # High level requirements
  | ID        | Description |  status  |
  | :---           | ---        | ---     |
