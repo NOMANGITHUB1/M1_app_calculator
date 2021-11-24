@@ -48,12 +48,19 @@ The tech-based market has a huge opportunities in capturing the youth market. An
 
 The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 # HIGH LEVEL REQUIREMENTS:-
-| ID | Description | Category|
+| ID | Description | status|
 | --- | --- | --- |
-| HLR01 | HLR01	User should able to viewe operation list| Technical|
-| HLR02 | 	User should able to select the operation	 | TechnicL|
-| HLR03 | The system sould able perform the given operation	 | TechnicaL|
-| HLR04 | 	The system should provide correct result	 | TechnicaL|
+| HLR_1 | HLR01	User should able to viewe operation list| implemented|
+| HLR_2 | 	User should able to select the operation	 | implemented|
+| HLR_3 | The system sould able perform the given operation	 | implemented|
+| HLR_4 | 	The system should provide correct result	 | implemented|
+
+# Low Level Requirements
+| ID | Description |status|
+| --- | --- | --- |
+|LLR_1|list of operation displayed|implemented|
+|LLR_2|input from user|implemented|
+|LLR_3|exit from propgram|implemented|
 
 
 
