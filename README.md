@@ -13,7 +13,7 @@ The input includes the command such as we can give numbers based on the operatio
  | 1_Requirements |	Documents detailing requirements and research |
  | 2_Architecture	| |Documents specifying design details|
  |3_Implementation|	All code and documentation|
- |4_Test	|Documents with test plans and procedures|
+ |4_Test	         |Documents with test plans and procedures|
  |5_image         | image and video realted to project|
  |6_Report        | all documents in thus file|
   
