@@ -15,21 +15,21 @@ https://www.knowprogram.com/c-programming/simple-calculator-program-c
 The switch-case statement is used to write a simple calculator program in C language. The remainder operator % is normally used with data values. To print the remainder operator %% is used in the first printf() function. The variable ch store the operator, similarly the variables num1, and num2 stores the two numbers. The switch has condition “ch” so the entered operator is matched with which case label those case label statements are executed, and display result to the screen. If the entered operator is not matched with the case labels then the default statement will be executed and it will display the message “Error! Invalid Operator.” to the screen.
 # 4W's and 1 H's
 ## Why:
-To reduce the complexity of financial calculations.
-I’m making this to do all financial calculations in one place.
+To reduce the complexity  calculations.
+I’m making this to do all type of calculations in one place.
 It can be used by anyone at any place.
 ## Where:
-This can be used in our daily lives to make better financial decisions.
-We can use it in the banking system for calculation.
+This can be used in our daily live.
+We can use it for any type of  calculation.
 ## Who:
-It can be used by investors.
-Can be used as a reference for advanced financial calculations.
+It can be used by anyone .
+Can be used as a reference for  calculations.
 ## When:
-One can calculate financial costs anywhere.
+One can calculate  anywhere.
 The project can be used when the financial calculations are required and the result will be obtained fastly.
 # How:
 By giving different amounts one can find their desired output.
-It will be helpful in performing various calculations like LumpSum and SIP. This will give accurate results
+It will be helpful in performing various calculations.
 
 # Swot Analysis
 ## STRENGTHS
