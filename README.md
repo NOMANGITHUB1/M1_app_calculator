@@ -19,29 +19,27 @@ In manual calculating the things on paper takes time and there is chance of erro
 # Defining the system
 its very easy to use open the system and enter the numbers for calculation. There is no need of sign-in.
 # SWOT ANALYSIS
-S stands for Strength
+### Strength
 
- 1-simple  interface.
+ simple  interfaceThe ultimate strength Calculators is its innovative,user-friendly and long lasting etc..
 
- 2-easy to calculate.
+### weakness
 
-W stands for weakness
+do not inlude all the operations rather have onlty addition,subtraction multiplication, division ,modulas ,power and factorial.
 
- 1- many more mathematical feature is not there.
+ ### OPPORTUNITIES
 
- O stands for Opportunity
+The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other.
 
- 1- More complex things will be easy in calculating.
+### THREATS
 
- T- stands for Threats
-
- there are  no such Threats.
+The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
  # High level requirements
 
- 1- user shall able to enter keys 
-
- 2- shall able to cancel or increament the size of numbers
+ | ID       | Description    | Category   |
+ | :---     |:---:           | ---:       |
+ |
   
   #  Ws
   
