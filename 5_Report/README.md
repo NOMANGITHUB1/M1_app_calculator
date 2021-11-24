@@ -46,5 +46,19 @@ The slower growth in technological innovation will also bring a significant thre
   |HLR_02|User should able to select the operationt| 	implemented |
   |HLR_03|The system sould able perform the given operation| 	implemented |
   |HLR_04|	The system should provide correct result| 	implemented |
+  
+  # LOW level requirements
+ | ID        | Description |  status  |
+ | :---           | ---        | ---     |
+  |LLR_01|List of operations displayed| 	implemented |
+  |LLR_02|List of operations displayed| 	implemented |
+  |LLR_03|Out of  program| 	implemented |
+  
+  # Test plan
+   | ID      | Description |  Exp I/p  | Exp O/P |Actual Output | Type of cost |
+ | :---     | ---        | ---    |  ---        | ---    | ---        | 
+  
+  
+  
 
 
