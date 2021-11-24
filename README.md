@@ -7,12 +7,21 @@ In manual calculating the things on paper takes time and there is chance of erro
 # feature
 1-calculation fast
 2- simple and efficient feature
+3- Accepts the following operators:
+
++: sum
+-: sub
+*: multiplication
+/: division
+%: modulus
+^: exponentiation
+(): used to change default precedence
 # Defining the system
 its very easy to use open the system and enter the numbers for calculation. There is no need of sign-in.
 # SWOT ANALYSIS
 S stands for Strength
 
- 1-simle interface.
+ 1-simple  interface.
 
  2-easy to calculate.
 
