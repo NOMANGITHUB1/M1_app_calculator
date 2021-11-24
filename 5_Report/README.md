@@ -57,12 +57,37 @@ The slower growth in technological innovation will also bring a significant thre
   # Test plan
   
   ## High level Test plan
-   | ID      | Description |  Exp I/p  | Exp O/P |Actual Output | Type of cost |
+   | ID      | Description |  Exp I/p  | Exp O/P |Actual Output | Type of test |
  | :---     | ---        | ---    |  ---        | ---    | ---        | 
   |HLTP_1| check the code working as expected by test case| Valid input|Correct output| correct output|Manual testing|
   |HLTP_2| check if the system handles boundary conditions| InValid input|Terminated| Terminated|Manual testing|
   |HLTP_3| check for the flow control| for Valid input|correctly| jumping correct|Manual testing|   
   |HLTP_4| check for the flow control| for In-Valid input|terminate|terminate |Manual testing|
+  
+  ## Low level test plan
+   | ID      | Function |  Exp I/p  | Exp O/P |Actual Output | Type of testst |
+ | :---     | ---        | ---    |  ---        | ---    | ---        | 
+ |LLTP_1|addition|int value|int output|int output|Unit test|
+ |LLTP_2|addition|float value|termination|termination|Unit test|
+ |LLTP_3|subtraction|int value|int output|int output|Unit test|
+ |LLTP_4|subtractio|float value|termination|termination|Unit test|
+ |LLTP_5|Multiplication|int value|int output|int output|Unit test|
+ |LLTP_6|Multiplication|float value|termination|termination|Unit test|
+ |LLTP_7|division|int value|int output|int output|Unit test|
+ |LLTP_8|division|float value|termination|termination|Unit test|
+ |LLTP_9|power|int value|int output|int output|Unit test|
+ |LLTP_10|power|float value|termination|termination|Unit test|
+ |LLTP_11|module|int value|int output|int output|Unit test|
+ |LLTP_12|module|float value|termination|termination|Unit test|
+ |LLTP_13|factorial|int value|int output|int output|Unit test|
+ |LLTP_14|factorial|float value|termination|termination|Unit test|
+ 
+
+   
+  
+
+  
+  
    
   
   
